@@ -21,11 +21,11 @@ end
 
 
 # TESTS
-p caesar_cipher("What a string!", 5) == "Bmfy f xywnsl!"
-p caesar_cipher("A", 1) == "B"
-p caesar_cipher("Aaa", 1) == "Bbb"
-p caesar_cipher("Hello, World!", 5) == "Mjqqt, Btwqi!"
-p caesar_cipher("Mjqqt, Btwqi!", -5) == "Hello, World!"
-p caesar_cipher("Z", 1) == "A"
-p caesar_cipher("Hello, World!", 75) == "Ebiil, Tloia!"
-p caesar_cipher("Hello, World!", -29) == "Ebiil, Tloia!"
+# p caesar_cipher("What a string!", 5) == "Bmfy f xywnsl!"
+# p caesar_cipher("A", 1) == "B"
+# p caesar_cipher("Aaa", 1) == "Bbb"
+# p caesar_cipher("Hello, World!", 5) == "Mjqqt, Btwqi!"
+# p caesar_cipher("Mjqqt, Btwqi!", -5) == "Hello, World!"
+# p caesar_cipher("Z", 1) == "A"
+# p caesar_cipher("Hello, World!", 75) == "Ebiil, Tloia!"
+# p caesar_cipher("Hello, World!", -29) == "Ebiil, Tloia!"
